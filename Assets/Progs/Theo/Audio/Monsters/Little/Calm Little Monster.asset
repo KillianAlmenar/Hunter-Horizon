@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486437c8df0107e469a5bcdff9b973ff, type: 3}
+  m_Name: Calm Little Monster
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 0b370545acac81f41b997d11092877c8, type: 3}
+  - {fileID: 8300000, guid: bf75fa279b03c2941a85e64ff77e7e06, type: 3}
+  - {fileID: 8300000, guid: 28c1c0b1f4973c8438f6ddb427c26414, type: 3}
+  - {fileID: 8300000, guid: c8372534f645e0c419da09a4217e7abd, type: 3}
+  - {fileID: 8300000, guid: e6d9fc74f713d4d449e6d7458e9c1102, type: 3}
+  - {fileID: 8300000, guid: fdc792d9eda42f84d8a7bd3c03a556c9, type: 3}

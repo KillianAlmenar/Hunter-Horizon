@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a26a774083c2ed41a221d5164d12248, type: 3}
+  m_Name: EquipmentDataBase
+  m_EditorClassIdentifier: 
+  equipments:
+  - itemName: name
+    id: equipment_0
+    description: description
+    itemIcon: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: Helmet
+    equipmentType: 1
+    talent: 0
+    attack: 0
+    defense: 20
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 0
+    element: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isEquipped: 1
+  - itemName: name
+    id: equipment_1
+    description: description
+    itemIcon: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: Plastron
+    equipmentType: 2
+    talent: 0
+    attack: 0
+    defense: 0
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 0
+    element: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isEquipped: 1
+  - itemName: name
+    id: equipment_2
+    description: description
+    itemIcon: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: Gants
+    equipmentType: 3
+    talent: 0
+    attack: 0
+    defense: 0
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 0
+    element: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isEquipped: 1
+  - itemName: name
+    id: equipment_3
+    description: description
+    itemIcon: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: Pantalon
+    equipmentType: 4
+    talent: 0
+    attack: 0
+    defense: 0
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 0
+    element: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isEquipped: 1

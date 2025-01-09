@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486437c8df0107e469a5bcdff9b973ff, type: 3}
+  m_Name: BlacksmithBuy
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: ed1fc5b2f8ce08747b22a00a513dd85d, type: 3}
+  - {fileID: 8300000, guid: 3b8786208bfbd7045a777d93e1568fad, type: 3}
+  - {fileID: 8300000, guid: 212acd41ce7110d469bf01ae3e09ad2d, type: 3}
+  - {fileID: 8300000, guid: 52bd4590a179a064b85797d724afe203, type: 3}
+  length: 0.5

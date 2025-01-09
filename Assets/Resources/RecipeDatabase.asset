@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f311b403ca309d4aa6f60035741ac94, type: 3}
+  m_Name: RecipeDatabase
+  m_EditorClassIdentifier: 
+  recipes:
+  - resultItem:
+      itemName: Leg HELL BLADE
+      id: weapon_0
+      description: description
+      itemIcon: {fileID: 21300000, guid: c0ea4b6e528e7fe4aa6cdc94d38691a1, type: 3}
+      itemImage: {fileID: 0}
+      itemValue: 0
+      rarity: 3
+    requiredItems:
+    - itemName: Fleur de Chantelle
+      id: fleur_chantelle
+      description: Pistile de grande sauvage
+      itemIcon: {fileID: 21300000, guid: 991416aa5585643418619ed83a47420a, type: 3}
+      itemImage: {fileID: 0}
+      itemValue: 10
+      rarity: 0
+    id: hell_blade
+  - resultItem:
+      itemName: Rare EOLE
+      id: weapon_1
+      description: description
+      itemIcon: {fileID: 21300000, guid: d5ab6ea498c4d064781b7c052c6b6a2a, type: 3}
+      itemImage: {fileID: 0}
+      itemValue: 0
+      rarity: 1
+    requiredItems:
+    - itemName: griffe de gerboise
+      id: griffe_gerboise
+      description: petit mais coupant
+      itemIcon: {fileID: 21300000, guid: 3311f1112211ee545ae3a90efc37ac17, type: 3}
+      itemImage: {fileID: 0}
+      itemValue: 50
+      rarity: 1
+    id: eole
+  - resultItem:
+      itemName: Epic ZEUS WRATH
+      id: weapon_2
+      description: description
+      itemIcon: {fileID: 21300000, guid: 62a99ebf2f5cfe04da1d208b9e7817a9, type: 3}
+      itemImage: {fileID: 0}
+      itemValue: 0
+      rarity: 2
+    requiredItems:
+    - itemName: peau de gerboise
+      id: peau_gerboise
+      description: tout doux comme mes doudou
+      itemIcon: {fileID: 21300000, guid: 54507b00ae338564c80ddecfec7800f6, type: 3}
+      itemImage: {fileID: 0}
+      itemValue: 75
+      rarity: 2
+    id: zeus_wrath
+  - resultItem:
+      itemName: Comm Icesword
+      id: weapon_3
+      description: description
+      itemIcon: {fileID: 21300000, guid: 789e518168d493d4396ec984b1b5bcb3, type: 3}
+      itemImage: {fileID: 0}
+      itemValue: 0
+      rarity: 0
+    requiredItems:
+    - itemName: crystal
+      id: blue_crystal
+      description: "Scintille pour illuminer les t\xE9n\xE8bres !"
+      itemIcon: {fileID: 21300000, guid: ae7e1099aaff73c4b8e6e623e8c96910, type: 3}
+      itemImage: {fileID: 0}
+      itemValue: 25
+      rarity: 3
+    id: ice_word

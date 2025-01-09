@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8836bf8bbaae134783bc33ddab2858e, type: 3}
+  m_Name: WeaponDatabase
+  m_EditorClassIdentifier: 
+  weapons:
+  - itemName: Leg HELL BLADE
+    id: weapon_0
+    description: description
+    itemIcon: {fileID: 21300000, guid: c0ea4b6e528e7fe4aa6cdc94d38691a1, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 3
+    weaponType: 0
+    attack: 100
+    attackRange: 10
+    criticalRate: 10
+    knockbackForce: 0
+    color: {r: 1, g: 0.051886797, b: 0.051886797, a: 0}
+    element: 1
+    talents: 1
+  - itemName: Rare EOLE
+    id: weapon_1
+    description: description
+    itemIcon: {fileID: 21300000, guid: d5ab6ea498c4d064781b7c052c6b6a2a, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 1
+    weaponType: 0
+    attack: 100
+    attackRange: 10
+    criticalRate: 10
+    knockbackForce: 0
+    color: {r: 0.16862746, g: 1, b: 0.03137255, a: 0}
+    element: 2
+    talents: 6
+  - itemName: Epic ZEUS WRATH
+    id: weapon_2
+    description: description
+    itemIcon: {fileID: 21300000, guid: 62a99ebf2f5cfe04da1d208b9e7817a9, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 2
+    weaponType: 0
+    attack: 100
+    attackRange: 15
+    criticalRate: 5
+    knockbackForce: 0
+    color: {r: 0.90854716, g: 0.9245283, b: 0.082858644, a: 0}
+    element: 3
+    talents: 1
+  - itemName: Comm Icesword
+    id: weapon_3
+    description: description
+    itemIcon: {fileID: 21300000, guid: 789e518168d493d4396ec984b1b5bcb3, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    weaponType: 0
+    attack: 100
+    attackRange: 15
+    criticalRate: 5
+    knockbackForce: 0
+    color: {r: 0.051886797, g: 0.98233616, b: 1, a: 0}
+    element: 4
+    talents: 3
+  - itemName: Comm Arc de feu
+    id: weapon_4
+    description: description
+    itemIcon: {fileID: 21300000, guid: 0c7f2b30efde63b4e85506baea6e3484, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    weaponType: 1
+    attack: 50
+    attackRange: 0
+    criticalRate: 0
+    knockbackForce: 0
+    color: {r: 1, g: 0, b: 0, a: 0}
+    element: 1
+    talents: 0
+  - itemName: Rare Arc de vent
+    id: weapon_5
+    description: description
+    itemIcon: {fileID: 21300000, guid: fb2acd264db5e24428dbf84cf8f0f467, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 1
+    weaponType: 1
+    attack: 50
+    attackRange: 0
+    criticalRate: 0
+    knockbackForce: 0
+    color: {r: 0.16774885, g: 1, b: 0.033018887, a: 0}
+    element: 2
+    talents: 0
+  - itemName: Epic Arc de foudre
+    id: weapon_6
+    description: description
+    itemIcon: {fileID: 21300000, guid: cfddf38e2d0fcbb40b169564fd58ea23, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 2
+    weaponType: 1
+    attack: 50
+    attackRange: 0
+    criticalRate: 0
+    knockbackForce: 0
+    color: {r: 0.99034953, g: 1, b: 0, a: 0}
+    element: 3
+    talents: 0
+  - itemName: Leg Arc de glace
+    id: weapon_7
+    description: description
+    itemIcon: {fileID: 21300000, guid: bd414a9002c9cc743a6b1481e409997d, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 3
+    weaponType: 1
+    attack: 50
+    attackRange: 0
+    criticalRate: 0
+    knockbackForce: 0
+    color: {r: 0, g: 0.9896784, b: 1, a: 0}
+    element: 4
+    talents: 0

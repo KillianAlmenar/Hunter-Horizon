@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486437c8df0107e469a5bcdff9b973ff, type: 3}
+  m_Name: Light steps
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 231230e65a4096e41bb38a95a3bb2e35, type: 3}
+  - {fileID: 8300000, guid: 897e09579c32a3040bad869ca11c681e, type: 3}
+  - {fileID: 8300000, guid: 8920aa2510f1e3a4ba513af06d9533ba, type: 3}
+  - {fileID: 8300000, guid: 5c93e184c6090894d9bb276ce8b5224e, type: 3}

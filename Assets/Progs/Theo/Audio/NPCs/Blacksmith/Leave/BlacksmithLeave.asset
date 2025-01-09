@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486437c8df0107e469a5bcdff9b973ff, type: 3}
+  m_Name: BlacksmithLeave
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 50f997917204d164b90625bc5607751e, type: 3}
+  - {fileID: 8300000, guid: 774060505791c2a4baaae07b79ba675b, type: 3}
+  - {fileID: 8300000, guid: a79cc91df8d2c2b46bfa1e7eed6d7775, type: 3}
+  length: 0.5

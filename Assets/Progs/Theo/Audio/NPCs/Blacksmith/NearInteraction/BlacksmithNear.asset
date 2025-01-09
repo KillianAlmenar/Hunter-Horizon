@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486437c8df0107e469a5bcdff9b973ff, type: 3}
+  m_Name: BlacksmithNear
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 5f9e77a7a5d72044e94cf373fbc08ade, type: 3}
+  - {fileID: 8300000, guid: be432cf00f12ba740a9066a4af1dd905, type: 3}
+  - {fileID: 8300000, guid: 72fa6a2fdc80e714fb3e370661c62346, type: 3}
+  - {fileID: 8300000, guid: 83b6135484c78df46a3cd79f9ee8d542, type: 3}
+  length: 0.5

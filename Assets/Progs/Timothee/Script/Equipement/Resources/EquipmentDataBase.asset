@@ -1,0 +1,267 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a26a774083c2ed41a221d5164d12248, type: 3}
+  m_Name: EquipmentDataBase
+  m_EditorClassIdentifier: 
+  equipments:
+  - itemName: EPEE
+    id: equipment_4
+    description: description
+    itemIcon: {fileID: 21300000, guid: 1ff1175d56df9eb4f8cfa0ba429d9254, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: EPEE
+    equipmentType: 0
+    talent: 2
+    attack: 100
+    defense: 0
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 0
+    element: 1
+    color: {r: 0.735849, g: 0.21173012, b: 0.21173012, a: 0}
+    isEquipped: 1
+  - itemName: ARC
+    id: equipment_5
+    description: description
+    itemIcon: {fileID: 21300000, guid: bd414a9002c9cc743a6b1481e409997d, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: ARC
+    equipmentType: 0
+    talent: 0
+    attack: 100
+    defense: 0
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 1
+    element: 1
+    color: {r: 0.9433962, g: 0.083096445, b: 0.031149892, a: 0}
+    isEquipped: 1
+  - itemName: EPIC HELMET
+    id: equipment_2
+    description: description
+    itemIcon: {fileID: 21300000, guid: 28b103e16acf21b45afc90eb7afb7e42, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 2
+    equipmentName: EPIC HELMET
+    equipmentType: 2
+    talent: 0
+    attack: 10
+    defense: 25
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 0
+    element: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isEquipped: 1
+  - itemName: LEGENDS
+    id: equipment_3
+    description: description
+    itemIcon: {fileID: 21300000, guid: 896dada9aa8b8444b8145f80381d5fda, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 3
+    equipmentName: LEGENDS
+    equipmentType: 1
+    talent: 0
+    attack: 5
+    defense: 20
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 0
+    element: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isEquipped: 1
+  - itemName: COMMON
+    id: equipment_4
+    description: description
+    itemIcon: {fileID: 21300000, guid: 9309c4b66286c02498fce9e465b4916b, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: COMMON
+    equipmentType: 3
+    talent: 0
+    attack: 10
+    defense: 35
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 0
+    element: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isEquipped: 1
+  - itemName: RARE
+    id: equipment_5
+    description: description
+    itemIcon: {fileID: 21300000, guid: 4a59607811bc1f9459591856511467a5, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 1
+    equipmentName: RARE
+    equipmentType: 4
+    talent: 0
+    attack: 10
+    defense: 40
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 0
+    element: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isEquipped: 1
+  - itemName: WINDSWORD
+    id: equipment_6
+    description: description
+    itemIcon: {fileID: 21300000, guid: c0ea4b6e528e7fe4aa6cdc94d38691a1, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: WINDSWORD
+    equipmentType: 0
+    talent: 0
+    attack: 100
+    defense: 0
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 0
+    element: 2
+    color: {r: 0.089717776, g: 0.5660378, b: 0, a: 0}
+    isEquipped: 0
+  - itemName: SPARKSWORD
+    id: equipment_7
+    description: description
+    itemIcon: {fileID: 21300000, guid: f2a6caf7b6afd7b4095cfac985b5869c, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: SPARKSWORD
+    equipmentType: 0
+    talent: 0
+    attack: 100
+    defense: 0
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 0
+    element: 3
+    color: {r: 1, g: 0.84147394, b: 0, a: 0}
+    isEquipped: 0
+  - itemName: ICESWORD
+    id: equipment_8
+    description: description
+    itemIcon: {fileID: 21300000, guid: 789e518168d493d4396ec984b1b5bcb3, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: ICESWORD
+    equipmentType: 0
+    talent: 0
+    attack: 100
+    defense: 0
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 0
+    element: 4
+    color: {r: 0, g: 0.681592, b: 1, a: 0}
+    isEquipped: 0
+  - itemName: name
+    id: equipment_9
+    description: description
+    itemIcon: {fileID: 21300000, guid: 0c7f2b30efde63b4e85506baea6e3484, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: WINDGUN
+    equipmentType: 0
+    talent: 0
+    attack: 100
+    defense: 0
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 1
+    element: 2
+    color: {r: 0.103159264, g: 0.9150943, b: 0, a: 0}
+    isEquipped: 0
+  - itemName: name
+    id: equipment_10
+    description: description
+    itemIcon: {fileID: 21300000, guid: fb2acd264db5e24428dbf84cf8f0f467, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: ELECGUN
+    equipmentType: 0
+    talent: 0
+    attack: 100
+    defense: 0
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 1
+    element: 3
+    color: {r: 0.8490566, g: 0.8069449, b: 0, a: 0}
+    isEquipped: 0
+  - itemName: name
+    id: equipment_11
+    description: description
+    itemIcon: {fileID: 21300000, guid: 51d0cbd98e5243c4eac6f1e283a558c2, type: 3}
+    itemImage: {fileID: 0}
+    itemValue: 0
+    rarity: 0
+    equipmentName: ICEGUN
+    equipmentType: 0
+    talent: 0
+    attack: 100
+    defense: 0
+    criticalRate: 0
+    maxHealth: 0
+    knockbackForce: 0
+    movementSpeed: 0
+    attackRange: 0
+    weaponType: 1
+    element: 4
+    color: {r: 0, g: 0.620383, b: 1, a: 0}
+    isEquipped: 0

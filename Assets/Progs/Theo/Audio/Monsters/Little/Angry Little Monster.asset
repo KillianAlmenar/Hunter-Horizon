@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486437c8df0107e469a5bcdff9b973ff, type: 3}
+  m_Name: Angry Little Monster
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 63dce99af74fa114c9f979f24c023dbc, type: 3}
+  - {fileID: 8300000, guid: 27517579257addf418f628a2d34963df, type: 3}
+  - {fileID: 8300000, guid: 9b9be55a157065d4d82827baa9333d8d, type: 3}
+  - {fileID: 8300000, guid: bf178aa9a4838fd45a5c976290fdd955, type: 3}
+  - {fileID: 8300000, guid: a083090e951f0824396be6db4d416c70, type: 3}
+  - {fileID: 8300000, guid: 63720dbf2911b854398aab639b85a50a, type: 3}
